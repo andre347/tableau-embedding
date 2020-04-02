@@ -2,6 +2,8 @@
 
 Finished code for the Embedding Tableau video series.
 
+![](https://res.cloudinary.com/dmim37dbf/image/upload/v1585825492/Embedding%20Tableau%20Video%20Series/Overview_Card.png)
+
 To download and open:
 
 1. Use the Green button on the top right
